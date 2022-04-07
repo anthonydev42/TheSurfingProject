@@ -1,0 +1,26 @@
+.col-sm{
+    margin-top: 40px;
+    margin-bottom: 50px;
+}
+#intro-example {
+    background-image: url('background.jpg');
+    height: 400px;
+    background-size: cover;
+}
+#points {
+    margin-top: 40px;
+}
+.text {
+    margin-top: 20px;
+}
+#card1 {
+    margin-right: 10px;
+}
+#card2 {
+    margin-left: 10px;
+
+    border: 1px solid rgba(0,0,0,.125);
+}
+#text{
+    text-align: left;
+}
